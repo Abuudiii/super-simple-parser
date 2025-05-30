@@ -80,6 +80,8 @@ myparser --list-services
 ```
  
 ## Summary
-This tool allows you to query specific CIDR blocks that may be useful for monitoring data traffic through your environment or any other use case that requires working with IP ranges. I built this tool while analyzing traffic on my project's AWS network and found it much more efficient than manually scrolling through the `ip-ranges.json` list. If you have any feedback, suggestions, feature requests, or would like to collaborate, feel free to reach out through one of the links in my profile!
+This tool allows you to query specific CIDR blocks that may be useful for monitoring data traffic through your environment or any other use case that requires working with IP ranges. I built this tool while analyzing traffic on my project's AWS network and found it far more efficient than manually scrolling through the `ip-ranges.json` file. I’ve shared it here in case others find it helpful too. 
+
+If you have any feedback, suggestions, feature requests, or would like to collaborate, feel free to reach out through one of the links in my profile!
 
 Thanks! :blush:
